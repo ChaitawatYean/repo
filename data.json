@@ -1,0 +1,21 @@
+[
+	{
+		"title" : "what is computer?",
+		"subtitle : "Computer is a machine that can be programmed to carry out sequences of arithmetic or logical operations",
+		"image_url" : "https://upload.wikimedia.org/wikipedia/commons/1/1a/Crystal_Project_computer.png",
+		"detail" : "yay wo wo",
+	},
+	{
+		"title" : "what is is OS?",
+		"subtitle : "system software that manages computer hardware and software resources, and provides common services for computer programs.",
+		"image_url" : "http://preludeaccounts.com/wp-content/uploads/How-To-Use-A-Computer-What-Is-An-OS.jpg",
+		"detail" : "yay wo wo",
+	},
+	{
+		"title" : "what is CPU?",
+		"subtitle : "is the most important processor in a given computer.",
+		"image_url" : "https://www.techtalkthai.com/wp-content/uploads/2018/12/techtalkthai_2018_cpu_04-600x400.jpg",
+		"detail" : "yay wo wo",
+	},
+
+]
